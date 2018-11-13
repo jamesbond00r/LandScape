@@ -1,0 +1,24 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	flex-direction: row;
+}
+
+li {
+
+	display: inline;
+	padding: 8px;
+	background-color: #005500;
+	color: white;
+	text-align: center;
+	border-right: 1px solid white;
+	font-size: 25px;
+}
+
+
+.navbar{
+	background-color:  #005500;
+	display: flex;
+	justify-content: center;
+}
