@@ -106,8 +106,7 @@ background-size: cover;}
 	align-items: center;
 	flex-direction: row;
 	height: 250px;
-	border: solid black 1px;
-    
+	
     
 
 }
@@ -120,4 +119,21 @@ background-size: cover;}
 .ServicesHeader{
 	font-family: 'Crimson Text', serif;
 	font-size: 50px;
+}
+
+.section2{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-direction: row;
+	margin-right: 10px;
+	margin-left: 10px;
+	
+
+}
+
+@media all and (max-width: 700px){
+	.section2{
+		flex-wrap: wrap;
+	}
 }

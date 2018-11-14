@@ -46,6 +46,19 @@ class Home extends React.Component{
 
 			</div>
 			</div>
+			<div className="section2">
+			<p> 
+			Landlubber or just lubber Buccaneer hardtack gally sheet doubloon ahoy gibbet capstan draught. Case shot Buccaneer Blimey American Main swing the lead jack ahoy pillage wench weigh anchor. Tender crow's nest scourge of the seven seas hail-shot Admiral of the Black Cat o'nine tails Chain Shot wherry mizzenmast trysail. 
+			</p>
+			<p>
+			Code of conduct hearties haul wind tender jolly boat clipper Admiral of the Black sloop ahoy crimp. Long clothes maroon crimp swing the lead Blimey Cat o'nine tails topmast ye Arr furl. Bowsprit cackle fruit dance the hempen jig quarterdeck gangplank hardtack draft lass reef sails chase. 
+			</p>
+
+			<p>
+			Gaff nipper bilge Spanish Main jolly boat run a shot across the bow aft parrel pillage lugsail. Coxswain avast dead men tell no tales draught log gunwalls spike flogging barque keel. Splice the main brace Davy Jones' Locker yawl Cat o'nine tails pirate shrouds skysail Gold Road cog quarter. 
+			</p>
+			</div>
+
 			</div>
 		)
 	}
