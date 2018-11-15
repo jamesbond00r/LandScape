@@ -5,8 +5,11 @@ class Navbar extends React.Component {
 	render(){
 
 	return(
+		<div className="phone">
+<i class="fas fa-phone"> 785-342-9420</i>
 
 		<div className="navbar">
+		
 		<ul>
 		
 		<li>
@@ -35,6 +38,7 @@ class Navbar extends React.Component {
 		</li>
 
 		</ul>
+		</div>
 		</div>
 
 	)

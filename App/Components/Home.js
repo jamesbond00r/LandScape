@@ -47,6 +47,8 @@ class Home extends React.Component{
 			</div>
 			</div>
 			<div className="section2">
+			
+
 			<p> 
 			Landlubber or just lubber Buccaneer hardtack gally sheet doubloon ahoy gibbet capstan draught. Case shot Buccaneer Blimey American Main swing the lead jack ahoy pillage wench weigh anchor. Tender crow's nest scourge of the seven seas hail-shot Admiral of the Black Cat o'nine tails Chain Shot wherry mizzenmast trysail. 
 			</p>
@@ -59,6 +61,15 @@ class Home extends React.Component{
 			</p>
 			</div>
 
+			<div className="line"></div>
+
+			<div className="justspace">
+			<div className="sideStuff">
+			<h2>Spring & Fall Cleanup</h2>
+			<h3>Some Words to add</h3>
+			</div>
+			</div>
+			
 			</div>
 		)
 	}
