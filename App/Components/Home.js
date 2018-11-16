@@ -1,6 +1,7 @@
 var React = require('react');
 
 
+
 class Home extends React.Component{
 	render(){
 		return(
@@ -90,13 +91,15 @@ class Home extends React.Component{
 			<h3>We Are The Rutherfords </h3>
 			</div>
 
-//FOOTER
-
-//Buttons to go to stuff
-
-//Free estemate
-
+	<div className="Footer">
+			<footer>
+			<p>Contact: 785-342-9420 </p>
+			<p>Email: rrlawnlandscaping@yahoo.com</p>
+			</footer>
 			</div>
+			</div>
+
+			
 		)
 	}
 }

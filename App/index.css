@@ -11,7 +11,7 @@
 	flex-direction: row;
 }
 
-.active {
+.navbar .active {
 	font-weight: bold;
 	color: white;
 }
@@ -223,4 +223,30 @@ margin-left:35px;}
     border: solid black 2px;
 
 
+}
+
+.Footer{
+	
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: center;
+	align-items: center;
+	background-size: cover;
+	object-fit: cover;
+    height: 50px;
+    border: solid green 2px;
+   
+
+ 
+
+}
+
+.wrapper {
+	min-height: 100%;
+	margin-bottom: -50px;
+}
+
+.push{
+	margin-top: 410px;
+	height: 50px;
 }
