@@ -6,7 +6,7 @@ class Navbar extends React.Component {
 
 	return(
 		<div className="phone">
-<i class="fas fa-phone"> 785-342-9420</i>
+<i className="fas fa-phone"> 785-342-9420</i>
 
 		<div className="navbar">
 		

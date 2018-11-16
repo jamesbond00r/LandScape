@@ -68,9 +68,33 @@ class Home extends React.Component{
 			<h2>Spring & Fall Cleanup</h2>
 			<h3>Need Your Yard Cleaned?</h3>
 			<h4>Overgrown weeds? leaves? Grass to your knees?</h4>
+			
 			</div>
 			<img className="round" src={"https://images.pexels.com/photos/289613/pexels-photo-289613.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"} />
+			<p>Apple pie chupa chups cookie macaroon sweet roll gummi bears jelly beans apple pie oat cake. Cake topping pudding cookie halvah</p><p> dessert topping. Bear claw tiramisu gummies</p><p> jelly-o brownie toffee. Tart sesame snaps chupa chups fruitcake sweet roll</p><p> cookie tootsie roll. Cotton candy pudding liquorice jelly beans. Jelly-o powder chocolate bar cake croissant lollipop jelly-o.</p>
+			
+			<ul className="Seller">
+			<li>Gummies</li>
+			<li>Jelly-o cheesecake</li>
+			<li> tootsie roll</li>
+			<li>Gummies</li>
+			</ul>
 			</div>
+
+
+			<div className="line"></div>
+
+			<div className="family">
+			<h1>Meet Our Family</h1>
+			<img className="familypic" src={"https://images.pexels.com/photos/1470172/pexels-photo-1470172.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"} />
+			<h3>We Are The Rutherfords </h3>
+			</div>
+
+//FOOTER
+
+//Buttons to go to stuff
+
+//Free estemate
 
 			</div>
 		)
