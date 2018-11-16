@@ -173,3 +173,19 @@ background-attachment: fixed;
 	
 	text-align: center;
 }
+
+.Gallery{
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+/*h2{
+	margin-left: 1.66%;
+	text-decoration: underline;
+	font-family: 'Condiment', cursive;
+	font-size: 29px;
+	border-bottom: 3px solid red;
+	width: 30%;
+	padding-bottom: : 20px;
+}
+}*/
