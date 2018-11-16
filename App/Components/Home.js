@@ -66,10 +66,12 @@ class Home extends React.Component{
 			<div className="justspace">
 			<div className="sideStuff">
 			<h2>Spring & Fall Cleanup</h2>
-			<h3>Some Words to add</h3>
+			<h3>Need Your Yard Cleaned?</h3>
+			<h4>Overgrown weeds? leaves? Grass to your knees?</h4>
 			</div>
+			<img className="round" src={"https://images.pexels.com/photos/289613/pexels-photo-289613.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"} />
 			</div>
-			
+
 			</div>
 		)
 	}
