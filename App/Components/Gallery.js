@@ -23,8 +23,10 @@ class Gallery extends React.Component{
 <img className="Gallery" src={"http://c2.staticflickr.com/8/7579/15482110477_0b0e9e5421_b.jpg"}/>
 
 	</div>
-	
+
+
 			</div>
+
 		)
 	}
 }

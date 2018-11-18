@@ -5,7 +5,7 @@ var React = require('react');
 class Home extends React.Component{
 	render(){
 		return(
-			<div>
+			<div className="wrapper">
 			<div className="container">
 			<img className="bigPic" src={"https://images.pexels.com/photos/7174/summer-grass.jpg?auto=compress&cs=tinysrgb&h=750&w=1260"}/>
 			<div className="title">
@@ -31,7 +31,7 @@ class Home extends React.Component{
 			<section className="sections">
 			
 			<img className="round" src={"https://images.pexels.com/photos/6083/garden-moss-stone-sett.jpg?auto=compress&cs=tinysrgb&h=650&w=940"}/>
-			<h4 className="services">Hardscape</h4>
+			<h4 className="services">Landscapes & Hardscapes </h4>
 		</section>
 
 			<section className="sections">
@@ -81,6 +81,26 @@ class Home extends React.Component{
 			<li>Gummies</li>
 			</ul>
 			</div>
+			<div className="line"></div>
+
+			<div className="justspace">
+			<div className="sideStuff">
+			<h2>Ask Us About our Commercial Services</h2>
+			<h3>We Will Deliver A Free And Timley Estemate</h3>
+			<h4>From Sod to Rock Gardens, We Do It All!</h4>
+			
+			</div>
+			<img className="round2" src={"https://images.pexels.com/photos/1254275/pexels-photo-1254275.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"} />
+			<p>Apple pie chupa chups cookie macaroon sweet roll gummi bears jelly beans apple pie oat cake. Cake topping pudding cookie halvah</p><p> dessert topping. Bear claw tiramisu gummies</p><p> jelly-o brownie toffee. Tart sesame snaps chupa chups fruitcake sweet roll</p><p> cookie tootsie roll. Cotton candy pudding liquorice jelly beans. Jelly-o powder chocolate bar cake croissant lollipop jelly-o.</p>
+			
+			<ul className="Seller">
+			<li>Gummies</li>
+			<li>Jelly-o cheesecake</li>
+			<li> tootsie roll</li>
+			<li>Gummies</li>
+			</ul>
+			</div>
+
 
 
 			<div className="line"></div>

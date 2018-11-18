@@ -228,10 +228,9 @@ margin-left:35px;}
 .Footer{
 	
 	display: flex;
-	flex-direction: row-reverse;
 	justify-content: center;
 	align-items: center;
-	background-size: cover;
+
 	object-fit: cover;
     height: 50px;
     border: solid green 2px;
