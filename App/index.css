@@ -211,6 +211,7 @@ margin-left:35px;}
 .family{
 	text-align: center;
 	font-family: 'Great Vibes', cursive;
+	font-size: 30px;
 }
 
 
@@ -248,4 +249,14 @@ margin-left:35px;}
 .push{
 	margin-top: 410px;
 	height: 50px;
+}
+.sig{
+	font-family: 'Great Vibes', cursive;
+	font-size: 25px;
+	
+}
+.about{
+	font-size: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
 }
