@@ -15,7 +15,9 @@ class Home extends React.Component{
 			</div>
 			<div className="seeItFirst">
 			<h1 className="ServicesHeader">Our Services</h1>
+			
 			</div>
+
 			<div>
 			
 			
@@ -31,12 +33,12 @@ class Home extends React.Component{
 			<section className="sections">
 			
 			<img className="round" src={"https://images.pexels.com/photos/6083/garden-moss-stone-sett.jpg?auto=compress&cs=tinysrgb&h=650&w=940"}/>
-			<h4 className="services">Landscapes & Hardscapes </h4>
+			<h4 className="services"> Hardscapes </h4>
 		</section>
 
 			<section className="sections">
             <img className="round" src={"https://images.pexels.com/photos/413195/pexels-photo-413195.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"}/>
-          	<h4 className="services">Yard Clean Up</h4>
+          	<h4 className="services">Landscapes </h4>
          </section>
 
           <section className="sections">
@@ -49,17 +51,57 @@ class Home extends React.Component{
 			</div>
 			<div className="section2">
 			
+			<div className="subSection">
 
-			<p> 
-			Landlubber or just lubber Buccaneer hardtack gally sheet doubloon ahoy gibbet capstan draught. Case shot Buccaneer Blimey American Main swing the lead jack ahoy pillage wench weigh anchor. Tender crow's nest scourge of the seven seas hail-shot Admiral of the Black Cat o'nine tails Chain Shot wherry mizzenmast trysail. 
-			</p>
-			<p>
-			Code of conduct hearties haul wind tender jolly boat clipper Admiral of the Black sloop ahoy crimp. Long clothes maroon crimp swing the lead Blimey Cat o'nine tails topmast ye Arr furl. Bowsprit cackle fruit dance the hempen jig quarterdeck gangplank hardtack draft lass reef sails chase. 
-			</p>
+			<p>Fire Pits, Water Walls, Outdoor kitchens, We do it all! If you can dream it we can build it. Some of the services we
+			 provide include</p>
+			 <div className="subSection2">
+			 <ul>
+			 <li>Fire pits</li>
+			 <li>Patios</li>
+			 <li>Walk ways</li>
+			 <li>Outdoor kitchens</li>
+			 <li>Pounds</li>
+			 <li>Retaining Walls</li>
+			 <li>Coustome Creations</li>
 
-			<p>
-			Gaff nipper bilge Spanish Main jolly boat run a shot across the bow aft parrel pillage lugsail. Coxswain avast dead men tell no tales draught log gunwalls spike flogging barque keel. Splice the main brace Davy Jones' Locker yawl Cat o'nine tails pirate shrouds skysail Gold Road cog quarter. 
-			</p>
+			 </ul>
+			 </div>
+
+</div>
+<div className="subSection">
+
+			
+			<p>Ready for a sprinkler system? Or maybe you are ready to plant a whole new yard? Some of the services we
+			 provide include</p>
+			 <div className="subSection2">
+			 <ul>
+			 <li>Laying Sod</li>
+			 <li>Sprinkler System</li>
+			 <li>OverSeeding or Reseeding yards</li>
+			 <li>Gardens and rockbeds</li>
+			 <li>YardCleans and gutters</li>
+
+			 </ul>
+			 </div>
+
+</div>
+<div className="subSection">
+<p>Do you need a little privacy from the neighboors? Ready for a wrap around pourch? Maybe you just need some railings installed? If so then your in luck, some of the serviceswe provide include.</p>
+			 <div className="subSection2">
+			 <ul>
+			 <li>Fence</li>
+			 <li>Decks</li>
+			 <li>Gates</li>
+			 <li>HandRails</li>
+			 <li>Repairs</li>
+			 <li>Sheds</li>
+			 <li>Coustome Creations</li>
+
+			 </ul>
+			 </div>
+			 </div>
+
 			</div>
 
 			<div className="line"></div>
@@ -72,8 +114,10 @@ class Home extends React.Component{
 			
 			</div>
 			<img className="round" src={"https://images.pexels.com/photos/289613/pexels-photo-289613.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"} />
-			<p>Apple pie chupa chups cookie macaroon sweet roll gummi bears jelly beans apple pie oat cake. Cake topping pudding cookie halvah</p><p> dessert topping. Bear claw tiramisu gummies</p><p> jelly-o brownie toffee. Tart sesame snaps chupa chups fruitcake sweet roll</p><p> cookie tootsie roll. Cotton candy pudding liquorice jelly beans. Jelly-o powder chocolate bar cake croissant lollipop jelly-o.</p>
-			
+			<p>Landscaping not only adds beauty, but increases the value of your home. We 
+			offer personal detailed plans to incorporate all of your needs and achieve your
+			dreams. We can build the smallest flower bed, or start from a new
+			consturction and create your outdoor paradise. If you can dream it, we can build it.</p>
 			<ul className="Seller">
 			<li>Gummies</li>
 			<li>Jelly-o cheesecake</li>

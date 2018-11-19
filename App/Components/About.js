@@ -24,7 +24,7 @@ class About extends React.Component{
 			allows us to work together, teach valuable lessons, and maintain a level of professionalism
 			that promotes success. I want to thank each person who has helped R&R become the thriving company that it is today, and especially my family.
 			I look forward to many more years of making long lasting customer relationships.</p>
-			<p className="sig">Trent Rutherfor</p>
+			<p className="sig">Trent Rutherford</p>
 			</div>
 		)
 	}

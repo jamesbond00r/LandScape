@@ -260,3 +260,13 @@ margin-left:35px;}
 	margin-right: 20px;
 	margin-left: 20px;
 }
+
+.subSection{
+	width: 400px;
+}
+.subSection2{
+	width: 180px;
+}
+.subSection2 ul{
+	list-style-type: none;
+}
