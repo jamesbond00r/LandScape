@@ -129,20 +129,35 @@ class Home extends React.Component{
 
 			<div className="justspace">
 			<div className="sideStuff">
-			<h2>Ask Us About our Commercial Services</h2>
-			<h3>We Will Deliver A Free And Timley Estemate</h3>
-			<h4>From Sod to Rock Gardens, We Do It All!</h4>
+			<h1>Why R&R Landscaping?</h1>
+			<h2>Landscaping is what we do best</h2>
+			<h2>But there are a few more resons then 
+			just that...</h2>
 			
 			</div>
 			<img className="round2" src={"https://images.pexels.com/photos/1254275/pexels-photo-1254275.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"} />
-			<p>Apple pie chupa chups cookie macaroon sweet roll gummi bears jelly beans apple pie oat cake. Cake topping pudding cookie halvah</p><p> dessert topping. Bear claw tiramisu gummies</p><p> jelly-o brownie toffee. Tart sesame snaps chupa chups fruitcake sweet roll</p><p> cookie tootsie roll. Cotton candy pudding liquorice jelly beans. Jelly-o powder chocolate bar cake croissant lollipop jelly-o.</p>
+				
+			<p>Landscaping not only adds beauty, but increases the value of your home. We 
+			offer personal detailed plans to incorporate all of your needs and achieve your
+			dreams. We can build the smallest flower bed, or start from a new
+			consturction and create your outdoor paradise. If you can dream it, we can build it.</p>
 			
-			<ul className="Seller">
-			<li>Gummies</li>
-			<li>Jelly-o cheesecake</li>
-			<li> tootsie roll</li>
-			<li>Gummies</li>
-			</ul>
+			<p> hey Rob fill this in with stuff....Landscaping not only adds beauty, but increases the value of your home. We 
+			offer personal detailed plans to incorporate all of your needs and achieve your
+			dreams. We can build the smallest flower bed, or start from a new
+			consturction and create your outdoor paradise. If you can dream it, we can build it.</p>
+			
+			<p>Landscaping not only adds beauty, but increases the value of your home. We 
+			offer personal detailed plans to incorporate all of your needs and achieve your
+			dreams. We can build the smallest flower bed, or start from a new
+			consturction and create your outdoor paradise. If you can dream it, we can build it.</p>
+			
+			<p>Landscaping not only adds beauty, but increases the value of your home. We 
+			offer personal detailed plans to incorporate all of your needs and achieve your
+			dreams. We can build the smallest flower bed, or start from a new
+			consturction and create your outdoor paradise. If you can dream it, we can build it.</p>
+			
+			
 			</div>
 
 
