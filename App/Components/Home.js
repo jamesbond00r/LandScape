@@ -43,7 +43,7 @@ class Home extends React.Component{
 
           <section className="sections">
           	<img className="round" src={"https://images.pexels.com/photos/269063/pexels-photo-269063.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"}/>
-          <h4 className="services">Wood Work</h4>
+          <h4 className="services">Carpentry</h4>
          </section>
 		
 
@@ -80,14 +80,14 @@ class Home extends React.Component{
 			 <li>Sprinkler System</li>
 			 <li>OverSeeding or Reseeding yards</li>
 			 <li>Gardens and rockbeds</li>
-			 <li>YardCleans and gutters</li>
+			 <li>YardCleans and Gutters</li>
 
 			 </ul>
 			 </div>
 
 </div>
 <div className="subSection">
-<p>Do you need a little privacy from the neighboors? Ready for a wrap around pourch? Maybe you just need some railings installed? If so then your in luck, some of the serviceswe provide include.</p>
+<p>Do you need a little privacy from the neighboors? Ready for a wrap around pourch? Maybe you just need some railings installed? If so then your in luck, some of the services we provide include.</p>
 			 <div className="subSection2">
 			 <ul>
 			 <li>Fence</li>
@@ -106,26 +106,6 @@ class Home extends React.Component{
 
 			<div className="line"></div>
 
-			<div className="justspace">
-			<div className="sideStuff">
-			<h2>Spring & Fall Cleanup</h2>
-			<h3>Need Your Yard Cleaned?</h3>
-			<h4>Overgrown weeds? leaves? Grass to your knees?</h4>
-			
-			</div>
-			<img className="round" src={"https://images.pexels.com/photos/289613/pexels-photo-289613.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"} />
-			<p>Landscaping not only adds beauty, but increases the value of your home. We 
-			offer personal detailed plans to incorporate all of your needs and achieve your
-			dreams. We can build the smallest flower bed, or start from a new
-			consturction and create your outdoor paradise. If you can dream it, we can build it.</p>
-			<ul className="Seller">
-			<li>Gummies</li>
-			<li>Jelly-o cheesecake</li>
-			<li> tootsie roll</li>
-			<li>Gummies</li>
-			</ul>
-			</div>
-			<div className="line"></div>
 
 			<div className="justspace">
 			<div className="sideStuff">
@@ -142,26 +122,43 @@ class Home extends React.Component{
 			dreams. We can build the smallest flower bed, or start from a new
 			consturction and create your outdoor paradise. If you can dream it, we can build it.</p>
 			
-			<p> hey Rob fill this in with stuff....Landscaping not only adds beauty, but increases the value of your home. We 
-			offer personal detailed plans to incorporate all of your needs and achieve your
-			dreams. We can build the smallest flower bed, or start from a new
-			consturction and create your outdoor paradise. If you can dream it, we can build it.</p>
+			<p>R&R nolt only takes care of your lawn and landscaping needs, but
+			offers a 12 month service to take care of you all year long. We offer 
+			flexible billing and a variety of packages to meet any budget. We provide
+			ourselves with personal customer plans to fit your individual needs.</p>
 			
-			<p>Landscaping not only adds beauty, but increases the value of your home. We 
-			offer personal detailed plans to incorporate all of your needs and achieve your
-			dreams. We can build the smallest flower bed, or start from a new
-			consturction and create your outdoor paradise. If you can dream it, we can build it.</p>
+			<p>We are not your average lawn care company. We are a full service professional landscaping company,
+			and take the worry out of everything.</p>
 			
-			<p>Landscaping not only adds beauty, but increases the value of your home. We 
-			offer personal detailed plans to incorporate all of your needs and achieve your
-			dreams. We can build the smallest flower bed, or start from a new
-			consturction and create your outdoor paradise. If you can dream it, we can build it.</p>
+			<center>
+			<p>One call takes care of it all,You'll be glad you did!</p>
+			
+			</center>
+			
 			
 			
 			</div>
 
 
 
+
+			<div className="line"></div>
+
+			<div className="justspace">
+			<div className="sideStuff">
+			<h1>Custome Design</h1>
+			
+			</div>
+			<img className="round" src={"https://images.pexels.com/photos/834892/pexels-photo-834892.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"} />
+			<p>A landscape is a big investment that can beautify your yard, create a space for you,
+			and even raise the value of your home. That is why we give you complete control over your landscape
+			while we are designing and building it. We can do ann aerial view of the yard and give an overall plan, or take photos of your yard
+				and design new ideas in your existing space</p>
+			<p>100% Satisfaction Guaranteed!</p>
+			<p>If you have any questions or concers, please call us immedialely, and they will be remedied within 24 hours, or your money back!</p>
+			<h2> Call us today for a free Estimate! 785-342-9420</h2>
+			
+			</div>
 			<div className="line"></div>
 
 			<div className="family">

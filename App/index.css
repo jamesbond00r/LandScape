@@ -1,3 +1,7 @@
+body{
+	font-family: 'Crimson Text', serif;
+}
+
 .phone{
 	text-align: right;
 	color: green;
@@ -164,8 +168,8 @@ background-attachment: fixed;
     to right, 
     white 0%, 
     white 50%, 
-    ghostwhite 50%, 
-    ghostwhite 100%
+    white 50%, 
+  white 100%
 
   );
  width: 1300px;
@@ -173,9 +177,14 @@ margin-right:35px;
 margin-left:35px;}
 
 .sideStuff{
-	
+	display: flex;
 	text-align: center;
+	flex-direction: column;
+
 }
+
+
+ 
 
 .Gallery{
 	width: 30%;
@@ -263,10 +272,13 @@ margin-left:35px;}
 
 .subSection{
 	width: 400px;
+	background-color: white;
+	font-size: 18px;
 }
 .subSection2{
 	width: 180px;
 }
 .subSection2 ul{
 	list-style-type: none;
+	font-size: 16px;
 }
