@@ -229,26 +229,41 @@ margin-left:35px;}
 	justify-content: center;
 	object-fit: cover;
 	width: 800px;
-    height: 400px;
+    height: 500px;
     border: solid black 2px;
 
 
+}
+.fa-leaf{
+	color: gray;
 }
 
 .Footer{
 	
 	display: flex;
-	justify-content: space-around;
-	flex-direction: row;
+	justify-content: center;
+	flex-flow: row;
 	object-fit: cover;
-    height: 50px;
-    border: solid green 2px;
+    border: solid black 1px;
+    background-color: white;
+    color:black;
+    font-size: 16px;
+     align-items: flex-start
+
    
 }
-.feet{
-	align-self: flex-start;
-
+footer{
+	height: 98px; 
+	float: left;
+	align-self: auto;
+	margin:0;
 }
+
+.feet{
+	justify-content: space-between;
+	
+}
+
 
 .wrapper {
 	min-height: 100%;

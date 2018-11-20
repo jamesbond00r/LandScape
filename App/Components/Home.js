@@ -163,21 +163,20 @@ class Home extends React.Component{
 
 			<div className="family">
 			<h1>Meet Our Family</h1>
-			<img className="familypic" src={"https://images.pexels.com/photos/1470172/pexels-photo-1470172.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"} />
+			<img className="familypic" src={"https://scontent.fmci1-1.fna.fbcdn.net/v/t1.0-9/10574406_543825435740353_7899946290156410897_n.jpg?_nc_cat=110&_nc_ht=scontent.fmci1-1.fna&oh=db3027f57942698dc820a745023e2ba9&oe=5C64B5F3"} />
 			<h3>We Are The Rutherfords </h3>
 			</div>
 
 	<div className="Footer">
 			<footer>
 			<div className="feet"><p>Contact: 785-342-9420 </p></div>
-			<div className="feet"><p>Email: rrlawnlandscaping@yahoo.com</p></div>
-			<div className="feet"><p><i className="fab fa-facebook"></i></p></div>
-			<div className="feet"><p><i className="far fa-envelope"></i></p></div>
-			<div className="feet"><p><i class="fas fa-leaf"></i></p></div>
+			<div className="feet"><i className="far fa-envelope"></i><a href="mailto:rrlawnlandscaping@yahoo.com">Email: rrlawnlandscaping@yahoo.com</a></div>
+			<div className="feet"><a href="https://www.facebook.com/rrlawnlandscaping/"><i className="fab fa-facebook"></i>Follow us on Facebook</a></div>
+		
 			</footer>
+			
 			</div>
 			</div>
-
 			
 		)
 	}
