@@ -238,15 +238,15 @@ margin-left:35px;}
 .Footer{
 	
 	display: flex;
-	justify-content: center;
-	align-items: center;
-
+	justify-content: space-around;
+	flex-direction: row;
 	object-fit: cover;
     height: 50px;
     border: solid green 2px;
    
-
- 
+}
+.feet{
+	align-self: flex-start;
 
 }
 

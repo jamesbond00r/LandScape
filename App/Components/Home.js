@@ -169,8 +169,11 @@ class Home extends React.Component{
 
 	<div className="Footer">
 			<footer>
-			<p>Contact: 785-342-9420 </p>
-			<p>Email: rrlawnlandscaping@yahoo.com</p>
+			<div className="feet"><p>Contact: 785-342-9420 </p></div>
+			<div className="feet"><p>Email: rrlawnlandscaping@yahoo.com</p></div>
+			<div className="feet"><p><i className="fab fa-facebook"></i></p></div>
+			<div className="feet"><p><i className="far fa-envelope"></i></p></div>
+			<div className="feet"><p><i class="fas fa-leaf"></i></p></div>
 			</footer>
 			</div>
 			</div>
