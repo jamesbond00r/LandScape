@@ -4,6 +4,7 @@ var Well = require('react-bootstrap').Well
 
 
 
+
 class Home extends React.Component{
 	render(){
 		return(
@@ -32,7 +33,7 @@ class Home extends React.Component{
 
 
 			
-
+			<Col xs={6} md={4} > 
 			<section className="sections">
 			
 			<img className="round" src={"https://images.pexels.com/photos/6083/garden-moss-stone-sett.jpg?auto=compress&cs=tinysrgb&h=650&w=940"}/>
@@ -106,6 +107,7 @@ class Home extends React.Component{
 			 </div>
 
 			</div>
+			</Col>
 
 			<div className="line"></div>
 

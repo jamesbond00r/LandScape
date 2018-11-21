@@ -1,8 +1,10 @@
 var React = require('react');
+var Well = require('react-bootstrap').Well
 
 class About extends React.Component{
 	render(){
 		return(
+			<div>
 
 			<div className="about">
 			<div className="family">
@@ -25,6 +27,14 @@ class About extends React.Component{
 			that promotes success. I want to thank each person who has helped R&R become the thriving company that it is today, and especially my family.
 			I look forward to many more years of making long lasting customer relationships.</p>
 			<p className="sig">Trent Rutherford</p>
+			</div>
+			<Well>
+<div className="feet"><p>Contact: 785-342-9420 </p></div>
+			<div className="feet"><i className="far fa-envelope"></i><a href="mailto:rrlawnlandscaping@yahoo.com">__Email: rrlawnlandscaping@yahoo.com</a></div>
+			<div className="feet"><a href="https://www.facebook.com/rrlawnlandscaping/"><i className="fab fa-facebook"></i>__Follow us on Facebook</a></div>
+		
+</Well>
+	
 			</div>
 		)
 	}

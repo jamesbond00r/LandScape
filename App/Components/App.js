@@ -9,6 +9,7 @@ var Contact = require('./Contact');
 var About = require('./About');
 var Gallery = require('./Gallery');
 
+
 class App extends React.Component{
 	render(){
 		return(
@@ -28,6 +29,7 @@ class App extends React.Component{
 			</Switch>
 			</div>
 			</Router>
+
 		)
 	}
 }
