@@ -1,5 +1,7 @@
 var React = require('react');
 
+var Well = require('react-bootstrap').Well
+
 
 
 class Home extends React.Component{
@@ -20,13 +22,14 @@ class Home extends React.Component{
 
 			<div>
 			
-			
+		
 			
 			</div>
 
 <div className="centered">
 
 			<div className="sections">
+
 
 			
 
@@ -166,16 +169,18 @@ class Home extends React.Component{
 			<img className="familypic" src={"https://scontent.fmci1-1.fna.fbcdn.net/v/t1.0-9/10574406_543825435740353_7899946290156410897_n.jpg?_nc_cat=110&_nc_ht=scontent.fmci1-1.fna&oh=db3027f57942698dc820a745023e2ba9&oe=5C64B5F3"} />
 			<h3>We Are The Rutherfords </h3>
 			</div>
-
-	<div className="Footer">
-			<footer>
-			<div className="feet"><p>Contact: 785-342-9420 </p></div>
-			<div className="feet"><i className="far fa-envelope"></i><a href="mailto:rrlawnlandscaping@yahoo.com">Email: rrlawnlandscaping@yahoo.com</a></div>
-			<div className="feet"><a href="https://www.facebook.com/rrlawnlandscaping/"><i className="fab fa-facebook"></i>Follow us on Facebook</a></div>
+<Well>
+<div className="feet"><p>Contact: 785-342-9420 </p></div>
+			<div className="feet"><i className="far fa-envelope"></i><a href="mailto:rrlawnlandscaping@yahoo.com">__Email: rrlawnlandscaping@yahoo.com</a></div>
+			<div className="feet"><a href="https://www.facebook.com/rrlawnlandscaping/"><i className="fab fa-facebook"></i>__Follow us on Facebook</a></div>
 		
-			</footer>
+</Well>
+	
 			
-			</div>
+			
+			
+	
+
 			</div>
 			
 		)
